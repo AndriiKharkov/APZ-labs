@@ -1,4 +1,5 @@
 # Лабораторна робота №4
-Статичний веб-сайт на базі Amazon AWS S3.
+**Тема:** Розгортання статичного веб-сайту на базі хмарного сховища Amazon AWS S3
 
-Посилання на сайт: <a href="http://akharkov-bucket-apz.s3-website.eu-north-1.amazonaws.com/" target="_blank">Відкрити веб-сайт на AWS S3 (у новій вкладці)</a>
+- **Виконав:** студент гр. 122-23з-1 Харьков А.В.
+- **Посилання на хостинг:** <a href="http://akharkov-bucket-apz.s3-website.eu-north-1.amazonaws.com/" target="_blank">akharkov-bucket-apz.s3-website.eu-north-1.amazonaws.com</a>
